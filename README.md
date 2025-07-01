@@ -23,7 +23,7 @@ The dataset used for this project contains the following features:
 - Owner Type
 - Price (Target variable)
 
-> Format: CSV file (e.g., `used_cars.csv`)
+> Dataset Link: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 
 ---
 
